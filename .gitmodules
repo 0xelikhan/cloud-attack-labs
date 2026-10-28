@@ -1,0 +1,9 @@
+[submodule "cloudgoat"]
+	path = cloudgoat
+	url = https://github.com/0xelikhan/cloudgoat.git
+[submodule "AzureGoat"]
+	path = AzureGoat
+	url = https://github.com/0xelikhan/AzureGoat.git
+[submodule "GCPGoat"]
+	path = GCPGoat
+	url = https://github.com/0xelikhan/GCPGoat.git
